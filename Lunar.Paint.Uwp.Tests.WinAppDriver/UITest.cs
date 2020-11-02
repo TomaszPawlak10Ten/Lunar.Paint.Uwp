@@ -14,6 +14,8 @@ namespace Lunar.Paint.Uwp.Tests.WinAppDriver
         // The part before "!App" will be in Package.Appxmanifest > Packaging > Package Family Name.
         // The app must also be installed (or launched for debugging) for WinAppDriver to be able to launch it.
         protected const string AppToLaunch = "2D64C875-81B7-4FCA-A474-7EB4747A4CF7_rpnzaatjdy8by!App";
+        //protected const string AppToLaunch = "2D64C875-81B7-4FCA-A474-7EB4747A4CF7!App";
+
 
         protected static WindowsDriver<WindowsElement> AppSession { get; set; }
     }
