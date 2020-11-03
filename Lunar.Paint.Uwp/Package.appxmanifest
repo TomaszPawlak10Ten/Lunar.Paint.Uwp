@@ -9,14 +9,14 @@
 
   <Identity
     Name="2D64C875-81B7-4FCA-A474-7EB4747A4CF7"
-    Publisher="CN=chunlin"
+    Publisher="CN=tomasz.pawlak"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="2D64C875-81B7-4FCA-A474-7EB4747A4CF7" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Lunar.Paint.Uwp</DisplayName>
-    <PublisherDisplayName>chunlin</PublisherDisplayName>
+    <PublisherDisplayName>TP</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
