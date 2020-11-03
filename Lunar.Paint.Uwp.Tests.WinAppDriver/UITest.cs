@@ -17,6 +17,7 @@ namespace Lunar.Paint.Uwp.Tests.WinAppDriver
         protected const string AppToLaunch = "2D64C875-81B7-4FCA-A474-7EB4747A4CF7_x37sn5jkpevzg!App";
 
 
+
         protected static WindowsDriver<WindowsElement> AppSession { get; set; }
     }
 }
